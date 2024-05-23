@@ -1,3 +1,8 @@
 get user service
 day 2 trail
 hiiiii
+
+
+learning branches
+
+createing an avathar for the the user
