@@ -1,0 +1,9 @@
+commit 1
+commit 2
+commit 3
+
+practicing git-rebase "for merging multiple commit into a siingle commit"
+
+rename and squashing practice
+
+
